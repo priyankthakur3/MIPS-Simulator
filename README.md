@@ -2,7 +2,7 @@
 
 Code to Simulate following MIPS Instructions
 
-R-Type: add, addu, sub and
+R-Type: add, addu, sub, and
 
 I-Type: addi, addiu
 
